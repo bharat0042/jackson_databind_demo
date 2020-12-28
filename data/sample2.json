@@ -1,0 +1,15 @@
+{
+    "firstName": "Rack",
+    "lastName": "Jackon",
+    "id" : 42,
+    "active" : true,
+    "address": {
+    	"street": "Elm",
+    	"city": "Maine",
+    	"state": "Texas",
+    	"country": "US",
+    	"zip": 15235
+    },
+    "language": ["C++", "Java", "Javascript"],
+    "company": "Danjo Inc."
+}
